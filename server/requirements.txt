@@ -1,1 +1,7 @@
-
+fastapi
+uvicorn
+python-multipart
+websockets
+cryptography
+python-socketio
+aiortc
